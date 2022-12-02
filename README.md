@@ -8,8 +8,6 @@ Diligent software engineer with heavy focus on front-end modules and processes.
 Builds beautiful and functional sites using modern technologies like JavaScript, Bootstrap, Html & CSS.
 Individual who is energetic, achievement-driven, and number-rich.
 
-<br>
-
 <h3>🧰 Languages and Tools</h3>
   <br>
   <p> 
@@ -28,8 +26,7 @@ Individual who is energetic, achievement-driven, and number-rich.
   </p>
 
 <br>
-<br>
 ![GitHub Streak](https://streak-stats.demolab.com?user=enemrocky&theme=dark)](https://git.io/streak-stats)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=enemrocky&theme=gruvbox&border_radius=4.5) 
+![GitHub Streak](https://streak-stats.demolab.com?user=enemrocky&theme=dark) 
 
