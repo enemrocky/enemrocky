@@ -9,7 +9,6 @@ Builds beautiful and functional sites using modern technologies like JavaScript,
 Individual who is energetic, achievement-driven, and number-rich.
 
 <br>
-<br>
 
 <h3>🧰 Languages and Tools</h3>
   <br>
@@ -30,7 +29,7 @@ Individual who is energetic, achievement-driven, and number-rich.
 
 <br>
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=enemrocky&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=enemrocky&theme=dark)](https://git.io/streak-stats)
 
-
+![GitHub Streak](https://streak-stats.demolab.com?user=enemrocky&theme=gruvbox&border_radius=4.5) 
 
