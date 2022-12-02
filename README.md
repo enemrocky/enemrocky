@@ -2,11 +2,11 @@
 
 <h2 align="center"> ⛷Enemrocky </h2>
 
-** align="center"'Software Engineer / Web Developer'**
+<h3 align="center">'Software Engineer / Web Developer'</h3>
 
- align="center" Diligent software engineer with heavy focus on front-end modules and processes.
+<p align="center"> Diligent software engineer with heavy focus on front-end modules and processes.
 Builds beautiful and functional sites using modern technologies like JavaScript, Bootstrap, Html & CSS.
-Individual who is energetic, achievement-driven, and number-rich.
+Individual who is energetic, achievement-driven, and number-rich.</p>
 
 <h3 align="center">🧰 Languages and Tools</h3>
   <p align="center"> 
