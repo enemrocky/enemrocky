@@ -12,7 +12,6 @@ Individual who is energetic, achievement-driven, and number-rich.</p>
   <p align="center"> 
     <img align="center" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img align="center" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img align="center" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/Tailwind-plain.svg" />
     <img align="center" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img align="center" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -27,7 +26,7 @@ Individual who is energetic, achievement-driven, and number-rich.</p>
   [![GitHub Streak](https://streak-stats.demolab.com?user=enemrocky&theme=highcontrast&hide_border=true&fire=1B4EDD&ring=1BDD56&currStreakLabel=17DD4B)](https://git.io/streak-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enemrocky&theme=highcontrast&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enemrocky&theme=highcontrast&hide_border=true&langs_count=8) 
-[![GitHub Streak](https://streak-stats.demolab.com?user=enemrocky&theme=dark-minimalist&card_width=501&hide_longest_streak=true)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=enemrocky&theme=dark-minimalist&card_width=501&hide_longest_streak=true)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enemrocky&show_icons=true&theme=dracula)
 
 
