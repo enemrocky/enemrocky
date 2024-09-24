@@ -48,17 +48,17 @@ Individual who is energetic, achievement-driven, and number-rich.</p>
 <!-- My Projects -->
 ## 🧩 My Projects
 
-- [CeylonJobSeeker](https://ceylonjobseeker.com) (Job listing portal.)
+- [Portfolio site](https://enemrocky.netlify.app/) (My portfolio site.)
 
-- [GitTrack](https://gittrack.vercel.app/) (Find who does not follow you on github.)
+- [Weather App](https://enemrockyweatherapp.netlify.app/) (Check weather for any city using Open weather API.)
 
-- [API Of Blockchains](https://api-of-blockchains.vercel.app/) (Sample project using typescript and tailwind css.)
+- [Password Generator](https://enemrockypasswordgenerator.netlify.app/) (Unique password generating CLI tool.)
 
-- [QRCodeX](https://qrcodex.netlify.app/) (QR Code scanner and generator.)
+- [Dictionary word search](https://enemrockydictionaryapi.netlify.app/) (Check meaning of any word using dictionary API.)
 
-- [MindMate](https://mind-mate.vercel.app/) (AI powered mental health support.)
+- [Calculator App](https://enemrockycalculatorapp.netlify.app/) (View my calculator App.)
 
-- [PassGen](https://github.com/LakshanRukantha/PassGen) (Random passwords generating CLI tool.)
+- [Expense Tracker](https://expensetrackerenemrocky.netlify.app/) (Expense tracker.)
 
 
 
